@@ -272,7 +272,7 @@ DEFINER는 모든 스토어드 프로그램이 기본적으로 가지는 옵션�
 
 ## Reference
 
-- https://mariadb.com/kb/en/mariadb-dump/
+- <https://mariadb.com/kb/en/mariadb-dump/>
 - Real MySQL 8.0 Vol.2
-- https://stackoverflow.com/questions/9446783/remove-definer-clause-from-mysql-dumps
-- https://dev.mysql.com/doc/refman/8.4/en/lock-tables.html
+- <https://stackoverflow.com/questions/9446783/remove-definer-clause-from-mysql-dumps>
+- <https://dev.mysql.com/doc/refman/8.4/en/lock-tables.html>
