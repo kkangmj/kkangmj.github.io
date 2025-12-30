@@ -83,8 +83,8 @@ comments: true
 그래서 공부 시간을 계산해보면 **시험 3주 전까진 주 14시간** 정도, **시험 3주 전부터 시험까지는 주 28시간** 정도 일본어 공부에 투자했다. 노트를 들고 다니면서 단어/문법을 암기한 시간이랑 집에서 중간중간 공부한 시간까지 포함하면 +2 시간이지 않을까. 추가로, 공부 시간 확보와 긴장감 유지를 위해 수면 시간도 평일/주말 상관없이 7시간으로 유지했다. 고등학생, 대학생 때도 이렇게 열심히 살았나 싶을 정도로 치열하게 공부한 기간이었다.
 
 <div style="width: 100%; display: flex; justify-content: center;">
-  <img src="../assets/img/251230/study-time-11.png" width="100%" >
-  <img src="../assets/img/251230/study-time-12.png" width="100%" >
+  <img src="../assets/img/251230/study-time-11.png" width="100%"  alt="study-time-november">
+  <img src="../assets/img/251230/study-time-12.png" width="100%"  alt="study-time-december">
 </div>
 
 ### D-Day 카운트
